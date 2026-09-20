@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm FLOKI</h1>
 
 <p align="center">
-  <b>Solo founder & full-stack developer from Saudi Arabia 🇸🇦</b><br>
+  <b>Solo founder & full-stack developer</b><br>
   I design, build, secure and run web products end to end.
 </p>
 
