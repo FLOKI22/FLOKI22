@@ -1,4 +1,4 @@
-<h1 align="center">FLOKI</h1>
+<h1 align="center">👋 Hey, I'm FLOKI</h1>
 
 <p align="center">
   <b>Solo founder & full-stack developer from Saudi Arabia 🇸🇦</b><br>
