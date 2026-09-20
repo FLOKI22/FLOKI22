@@ -19,7 +19,6 @@
 - I own the whole stack: database design, backend, frontend, servers, and security hardening.
 - I care about boring, reliable engineering: server-side validation, prepared statements, strict access control, least privilege.
 
-<p dir="rtl" align="right">مطوّر ومؤسس سعودي، أبني منتجات ويب من الفكرة إلى الإنتاج.</p>
 
 ### 🚀 What I'm building
 
